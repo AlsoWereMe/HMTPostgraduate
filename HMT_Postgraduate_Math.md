@@ -178,3 +178,28 @@ $$
 K=\frac{|y''|}{(1+y'^2)^{3/2}}
 $$
 曲率半径为曲率的倒数
+
+## 积分
+
+### 积分基本公式与三角恒等式
+
+$$
+\begin{align}
+\int \tan xdx&=-ln|\cos x| + C \\\
+\int \cot xdx&=ln|\sin x| + C \\\
+\int \sec xdx&=ln|\sec x + \tan x| + C\\\
+\int \csc xdx&=ln|\csc x - \cot x| + C\\\
+\int \frac{dx}{a^2 + x^2}&=\frac{1}{a}\arctan{\frac{x}{a}} + C\\\
+\int \frac{dx}{x^2 - a^2}&=\frac{1}{2a}ln{|\frac{x-a}{x+a}|}+C \\\
+\int \frac{dx}{\sqrt{a^2 - x^2}}&=\arcsin{\frac{x}{a}} + C\\\
+\int \frac{dx}{\sqrt{x^2 \pm a^2}}&=ln(x+\sqrt{x^2 \pm a^2}) + C\\\
+\end{align}
+$$
+
+$$
+sin A cos B = \frac{1}{2}[sin(A+B) + sin(A-B)]\\\
+cos A cos B = \frac{1}{2} [cos(A+B) + cos(A-B)]\\\
+sin A sin B = \frac{1}{2} [cos(A-B) - cos(A+B)]\\\
+$$
+
+### 分部积分法
