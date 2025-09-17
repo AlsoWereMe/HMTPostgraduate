@@ -203,3 +203,10 @@ sin A sin B = \frac{1}{2} [cos(A-B) - cos(A+B)]\\\
 $$
 
 ### 分部积分法
+
+$$
+\int{uv'dx}=uv-\int{vu'dx} \\\
+即\\\
+\int{udv}=uv-\int{vdu}
+$$
+
