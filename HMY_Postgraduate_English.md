@@ -1,16 +1,6 @@
-# English Note For Postgraduate
+# English Note For Spoken English
 
-## Vocabulary
+## Hobby/Habit
 
-spouse n. 配偶
-
-stripe n. 种类
-
-
-
-## Phrase
-
-count on 依靠
-
-## Grammar
-
+- What do you do in your leisure time?
+  - Cooking/
